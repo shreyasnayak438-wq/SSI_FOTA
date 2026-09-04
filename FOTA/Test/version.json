@@ -1,1 +1,4 @@
-
+{
+  "version": 1,
+  "firmware": "test_code_v1.bin"
+}
