@@ -1,4 +1,4 @@
 {
-  "version": 1,
-  "firmware": "test_code_v1.bin"
+  "version": 2,
+  "firmware": "test_code_v2.bin"
 }
